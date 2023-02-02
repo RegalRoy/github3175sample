@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="prompt">select option</string>
+    <string-array name="spinner">
+        <item>Option1</item>
+        <item>Option2</item>
+        <item>Option3</item>
+    </string-array>
+</resources>
