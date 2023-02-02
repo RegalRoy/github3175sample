@@ -72,6 +72,7 @@ public class MainActivity extends AppCompatActivity {
 
 
             //testupdate
+                //update from local
 
             }catch (Exception e){
 
